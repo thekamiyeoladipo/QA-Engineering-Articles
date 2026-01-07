@@ -67,4 +67,4 @@ Don’t wait! 🚀 Start exploring the articles in the **[articles folder](artic
 
 ---
 
-**Made with 💻 and 💡 by [Your Name]**
+**Made with 💻 and 💡 by Kamiye Oladipo Ojedokun**
