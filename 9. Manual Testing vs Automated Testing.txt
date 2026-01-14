@@ -1,1 +1,1 @@
-
+Manual testing and automated testing serve different purposes, but both are essential in a QA engineer’s toolkit. Manual testing involves human interaction to execute test cases and identify defects, while automated testing uses scripts and tools to run tests. Manual testing is flexible and great for exploratory testing, while automation excels in repetitive tests, saving time and ensuring consistency. Knowing when and how to use each method is key to effective testing.
