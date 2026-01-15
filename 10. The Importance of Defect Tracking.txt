@@ -1,1 +1,1 @@
-
+Defect tracking is a critical part of the testing process. It ensures that defects are identified, categorized, and prioritized efficiently. A defect tracking system like Jira or Bugzilla allows you to monitor bugs, track their resolution and provide updtaes to stakeholders. Tracking defects help streamline the development cycle, ensure accountability, and allow for transparent communication across teams. Without proper defect tracking system, bugs can easily slip through the cracks.
