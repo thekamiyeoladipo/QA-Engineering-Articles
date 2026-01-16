@@ -1,1 +1,1 @@
-
+A test plan is a comprehensive document that outlines the strategy for testing a software application. It includes details like testing objectives, scope, resources, schedule and deliverables. A test plan helps coordinate the testing efforts and ensyres everyone is on the same page. Writing a test plan isn't ajust about listing test cases; it's about setting clear expectations, aligning woth business goals and ensuring the testing is done systematically and effectively.
