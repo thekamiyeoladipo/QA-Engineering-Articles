@@ -1,1 +1,1 @@
-
+Functional testing verifies that the software operates according to its specifications. This type of testing focuses on checking the functionality of features and ensuring that they behave as expected. It includes testing things like user authentication, data entry forms and any other functional aspects of the software. By thoroughly testing each function, QA engineers help ensure that the software is not only bug free but also meets the user's needs and requirements.
