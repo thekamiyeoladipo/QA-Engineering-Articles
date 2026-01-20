@@ -1,1 +1,1 @@
-
+Non-functional testing evaluates the software’s performance, security, scalability, and other attributes that don’t directly affect its functionality but are just as important for a great user experience. This includes performance testing, load testing, and stress testing. Non-functional testing ensures that the software can handle heavy usage, protect user data, and scale with growing demand. This type of testing is essential for ensuring the software can perform in the real world.
