@@ -1,1 +1,1 @@
-
+Load testing evaluates how the software performs under normal and peak usage conditions. It helps ensure that the system can handle the expected traffic and usage. This is particularly important for web applications and APIs, where high traffic can often cause crashes or slowdowns. By simulating real-world usage, load testing helps identify performance bottlenecks before they impact real users.
