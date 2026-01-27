@@ -1,1 +1,1 @@
-16
+User Acceptance Testing (UAT) is the final stage of testing before the product is released to customers. UAT is performed by real users or clients to validate that the software meets their needs and expectations. It’s the last check to ensure the product is ready for the real world. UAT ensures that the software is user-friendly, functional, and ready for deployment, providing the team with a final green light before going live.
